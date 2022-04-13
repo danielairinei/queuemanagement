@@ -1,0 +1,606 @@
+Time 1
+Waiting clients :   [(ID: 3, A: 2, S: 4), (ID: 2, A: 13, S: 3), (ID: 4, A: 14, S: 4), (ID: 1, A: 18, S: 3)]
+Queue 0: closed
+Queue 1: closed
+
+Time 2
+Waiting clients :   [(ID: 2, A: 13, S: 3), (ID: 4, A: 14, S: 4), (ID: 1, A: 18, S: 3)]
+Queue 0: [(ID: 3, A: 2, S: 4)]
+Queue 1: closed
+
+Time 3
+Waiting clients :   [(ID: 2, A: 13, S: 3), (ID: 4, A: 14, S: 4), (ID: 1, A: 18, S: 3)]
+Queue 0: [(ID: 3, A: 2, S: 4)]
+Queue 1: closed
+
+Time 4
+Waiting clients :   [(ID: 2, A: 13, S: 3), (ID: 4, A: 14, S: 4), (ID: 1, A: 18, S: 3)]
+Queue 0: [(ID: 3, A: 2, S: 4)]
+Queue 1: closed
+
+Time 5
+Waiting clients :   [(ID: 2, A: 13, S: 3), (ID: 4, A: 14, S: 4), (ID: 1, A: 18, S: 3)]
+Queue 0: [(ID: 3, A: 2, S: 4)]
+Queue 1: closed
+
+Time 6
+Waiting clients :   [(ID: 2, A: 13, S: 3), (ID: 4, A: 14, S: 4), (ID: 1, A: 18, S: 3)]
+Queue 0: closed
+Queue 1: closed
+
+Time 7
+Waiting clients :   [(ID: 2, A: 13, S: 3), (ID: 4, A: 14, S: 4), (ID: 1, A: 18, S: 3)]
+Queue 0: closed
+Queue 1: closed
+
+Time 8
+Waiting clients :   [(ID: 2, A: 13, S: 3), (ID: 4, A: 14, S: 4), (ID: 1, A: 18, S: 3)]
+Queue 0: closed
+Queue 1: closed
+
+Time 9
+Waiting clients :   [(ID: 2, A: 13, S: 3), (ID: 4, A: 14, S: 4), (ID: 1, A: 18, S: 3)]
+Queue 0: closed
+Queue 1: closed
+
+Time 10
+Waiting clients :   [(ID: 2, A: 13, S: 3), (ID: 4, A: 14, S: 4), (ID: 1, A: 18, S: 3)]
+Queue 0: closed
+Queue 1: closed
+
+Time 11
+Waiting clients :   [(ID: 2, A: 13, S: 3), (ID: 4, A: 14, S: 4), (ID: 1, A: 18, S: 3)]
+Queue 0: closed
+Queue 1: closed
+
+Time 12
+Waiting clients :   [(ID: 2, A: 13, S: 3), (ID: 4, A: 14, S: 4), (ID: 1, A: 18, S: 3)]
+Queue 0: closed
+Queue 1: closed
+
+Time 13
+Waiting clients :   [(ID: 4, A: 14, S: 4), (ID: 1, A: 18, S: 3)]
+Queue 0: [(ID: 2, A: 13, S: 3)]
+Queue 1: closed
+
+Time 14
+Waiting clients :   [(ID: 1, A: 18, S: 3)]
+Queue 0: [(ID: 2, A: 13, S: 3)]
+Queue 1: [(ID: 4, A: 14, S: 4)]
+
+Time 15
+Waiting clients :   [(ID: 1, A: 18, S: 3)]
+Queue 0: [(ID: 2, A: 13, S: 3)]
+Queue 1: [(ID: 4, A: 14, S: 4)]
+
+Time 16
+Waiting clients :   [(ID: 1, A: 18, S: 3)]
+Queue 0: closed
+Queue 1: [(ID: 4, A: 14, S: 4)]
+
+Time 17
+Waiting clients :   [(ID: 1, A: 18, S: 3)]
+Queue 0: closed
+Queue 1: [(ID: 4, A: 14, S: 4)]
+
+Time 18
+Waiting clients :   []
+Queue 0: [(ID: 1, A: 18, S: 3)]
+Queue 1: closed
+
+Time 19
+Waiting clients :   []
+Queue 0: [(ID: 1, A: 18, S: 3)]
+Queue 1: closed
+
+Time 20
+Waiting clients :   []
+Queue 0: [(ID: 1, A: 18, S: 3)]
+Queue 1: closed
+
+Time 21
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 22
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 23
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 24
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 25
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 26
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 27
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 28
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 29
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 30
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 31
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 32
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 33
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 34
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 35
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 36
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 37
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 38
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 39
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 40
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 41
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 42
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 43
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 44
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 45
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 46
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 47
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 48
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 49
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 50
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 51
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 52
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 53
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 54
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 55
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 56
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 57
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 58
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 59
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 60
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Average service time is : 3
+Peak hour is : 14
+Average waiting time is : 7
+Time 1
+Waiting clients :   [(ID: 1, A: 4, S: 4), (ID: 2, A: 14, S: 3), (ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: closed
+Queue 1: closed
+
+Time 2
+Waiting clients :   [(ID: 1, A: 4, S: 4), (ID: 2, A: 14, S: 3), (ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: closed
+Queue 1: closed
+
+Time 3
+Waiting clients :   [(ID: 1, A: 4, S: 4), (ID: 2, A: 14, S: 3), (ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: closed
+Queue 1: closed
+
+Time 4
+Waiting clients :   [(ID: 2, A: 14, S: 3), (ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: [(ID: 1, A: 4, S: 4)]
+Queue 1: closed
+
+Time 5
+Waiting clients :   [(ID: 2, A: 14, S: 3), (ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: [(ID: 1, A: 4, S: 4)]
+Queue 1: closed
+
+Time 6
+Waiting clients :   [(ID: 2, A: 14, S: 3), (ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: [(ID: 1, A: 4, S: 4)]
+Queue 1: closed
+
+Time 7
+Waiting clients :   [(ID: 2, A: 14, S: 3), (ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: [(ID: 1, A: 4, S: 4)]
+Queue 1: closed
+
+Time 8
+Waiting clients :   [(ID: 2, A: 14, S: 3), (ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: closed
+Queue 1: closed
+
+Time 9
+Waiting clients :   [(ID: 2, A: 14, S: 3), (ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: closed
+Queue 1: closed
+
+Time 10
+Waiting clients :   [(ID: 2, A: 14, S: 3), (ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: closed
+Queue 1: closed
+
+Time 11
+Waiting clients :   [(ID: 2, A: 14, S: 3), (ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: closed
+Queue 1: closed
+
+Time 12
+Waiting clients :   [(ID: 2, A: 14, S: 3), (ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: closed
+Queue 1: closed
+
+Time 13
+Waiting clients :   [(ID: 2, A: 14, S: 3), (ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: closed
+Queue 1: closed
+
+Time 14
+Waiting clients :   [(ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: [(ID: 2, A: 14, S: 3)]
+Queue 1: closed
+
+Time 15
+Waiting clients :   [(ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: [(ID: 2, A: 14, S: 3)]
+Queue 1: closed
+
+Time 16
+Waiting clients :   [(ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: [(ID: 2, A: 14, S: 3)]
+Queue 1: closed
+
+Time 17
+Waiting clients :   [(ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: closed
+Queue 1: closed
+
+Time 18
+Waiting clients :   [(ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: closed
+Queue 1: closed
+
+Time 19
+Waiting clients :   [(ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: closed
+Queue 1: closed
+
+Time 20
+Waiting clients :   [(ID: 4, A: 22, S: 4)]
+Queue 0: [(ID: 3, A: 20, S: 3)]
+Queue 1: closed
+
+Time 21
+Waiting clients :   [(ID: 4, A: 22, S: 4)]
+Queue 0: [(ID: 3, A: 20, S: 3)]
+Queue 1: closed
+
+Time 22
+Waiting clients :   []
+Queue 0: [(ID: 3, A: 20, S: 3)]
+Queue 1: [(ID: 4, A: 22, S: 4)]
+
+Time 23
+Waiting clients :   []
+Queue 0: closed
+Queue 1: [(ID: 4, A: 22, S: 4)]
+
+Time 24
+Waiting clients :   []
+Queue 0: closed
+Queue 1: [(ID: 4, A: 22, S: 4)]
+
+Time 25
+Waiting clients :   []
+Queue 0: closed
+Queue 1: [(ID: 4, A: 22, S: 4)]
+
+Time 26
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 27
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 28
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 29
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 30
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 31
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 32
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 33
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 34
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 35
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 36
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 37
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 38
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 39
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 40
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 41
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 42
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 43
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 44
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 45
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 46
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 47
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 48
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 49
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 50
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 51
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 52
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 53
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 54
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 55
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 56
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 57
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 58
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 59
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 60
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Average service time is : 3
+Peak hour is : 14
+Average waiting time is : 7

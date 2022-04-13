@@ -1,0 +1,1089 @@
+Time 1
+Waiting clients :   [(ID: 3, A: 2, S: 4), (ID: 2, A: 13, S: 3), (ID: 4, A: 14, S: 4), (ID: 1, A: 18, S: 3)]
+Queue 0: closed
+Queue 1: closed
+
+Time 2
+Waiting clients :   [(ID: 2, A: 13, S: 3), (ID: 4, A: 14, S: 4), (ID: 1, A: 18, S: 3)]
+Queue 0: [(ID: 3, A: 2, S: 4)]
+Queue 1: closed
+
+Time 3
+Waiting clients :   [(ID: 2, A: 13, S: 3), (ID: 4, A: 14, S: 4), (ID: 1, A: 18, S: 3)]
+Queue 0: [(ID: 3, A: 2, S: 4)]
+Queue 1: closed
+
+Time 4
+Waiting clients :   [(ID: 2, A: 13, S: 3), (ID: 4, A: 14, S: 4), (ID: 1, A: 18, S: 3)]
+Queue 0: [(ID: 3, A: 2, S: 4)]
+Queue 1: closed
+
+Time 5
+Waiting clients :   [(ID: 2, A: 13, S: 3), (ID: 4, A: 14, S: 4), (ID: 1, A: 18, S: 3)]
+Queue 0: [(ID: 3, A: 2, S: 4)]
+Queue 1: closed
+
+Time 6
+Waiting clients :   [(ID: 2, A: 13, S: 3), (ID: 4, A: 14, S: 4), (ID: 1, A: 18, S: 3)]
+Queue 0: closed
+Queue 1: closed
+
+Time 7
+Waiting clients :   [(ID: 2, A: 13, S: 3), (ID: 4, A: 14, S: 4), (ID: 1, A: 18, S: 3)]
+Queue 0: closed
+Queue 1: closed
+
+Time 8
+Waiting clients :   [(ID: 2, A: 13, S: 3), (ID: 4, A: 14, S: 4), (ID: 1, A: 18, S: 3)]
+Queue 0: closed
+Queue 1: closed
+
+Time 9
+Waiting clients :   [(ID: 2, A: 13, S: 3), (ID: 4, A: 14, S: 4), (ID: 1, A: 18, S: 3)]
+Queue 0: closed
+Queue 1: closed
+
+Time 10
+Waiting clients :   [(ID: 2, A: 13, S: 3), (ID: 4, A: 14, S: 4), (ID: 1, A: 18, S: 3)]
+Queue 0: closed
+Queue 1: closed
+
+Time 11
+Waiting clients :   [(ID: 2, A: 13, S: 3), (ID: 4, A: 14, S: 4), (ID: 1, A: 18, S: 3)]
+Queue 0: closed
+Queue 1: closed
+
+Time 12
+Waiting clients :   [(ID: 2, A: 13, S: 3), (ID: 4, A: 14, S: 4), (ID: 1, A: 18, S: 3)]
+Queue 0: closed
+Queue 1: closed
+
+Time 13
+Waiting clients :   [(ID: 4, A: 14, S: 4), (ID: 1, A: 18, S: 3)]
+Queue 0: [(ID: 2, A: 13, S: 3)]
+Queue 1: closed
+
+Time 14
+Waiting clients :   [(ID: 1, A: 18, S: 3)]
+Queue 0: [(ID: 2, A: 13, S: 3)]
+Queue 1: [(ID: 4, A: 14, S: 4)]
+
+Time 15
+Waiting clients :   [(ID: 1, A: 18, S: 3)]
+Queue 0: [(ID: 2, A: 13, S: 3)]
+Queue 1: [(ID: 4, A: 14, S: 4)]
+
+Time 16
+Waiting clients :   [(ID: 1, A: 18, S: 3)]
+Queue 0: closed
+Queue 1: [(ID: 4, A: 14, S: 4)]
+
+Time 17
+Waiting clients :   [(ID: 1, A: 18, S: 3)]
+Queue 0: closed
+Queue 1: [(ID: 4, A: 14, S: 4)]
+
+Time 18
+Waiting clients :   []
+Queue 0: [(ID: 1, A: 18, S: 3)]
+Queue 1: closed
+
+Time 19
+Waiting clients :   []
+Queue 0: [(ID: 1, A: 18, S: 3)]
+Queue 1: closed
+
+Time 20
+Waiting clients :   []
+Queue 0: [(ID: 1, A: 18, S: 3)]
+Queue 1: closed
+
+Time 21
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 22
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 23
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 24
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 25
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 26
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 27
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 28
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 29
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 30
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 31
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 32
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 33
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 34
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 35
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 36
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 37
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 38
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 39
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 40
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 41
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 42
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 43
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 44
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 45
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 46
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 47
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 48
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 49
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 50
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 51
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 52
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 53
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 54
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 55
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 56
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 57
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 58
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 59
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 60
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Average service time is : 3
+Peak hour is : 14
+Average waiting time is : 7
+Time 1
+Waiting clients :   [(ID: 1, A: 4, S: 4), (ID: 2, A: 14, S: 3), (ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: closed
+Queue 1: closed
+
+Time 2
+Waiting clients :   [(ID: 1, A: 4, S: 4), (ID: 2, A: 14, S: 3), (ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: closed
+Queue 1: closed
+
+Time 3
+Waiting clients :   [(ID: 1, A: 4, S: 4), (ID: 2, A: 14, S: 3), (ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: closed
+Queue 1: closed
+
+Time 4
+Waiting clients :   [(ID: 2, A: 14, S: 3), (ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: [(ID: 1, A: 4, S: 4)]
+Queue 1: closed
+
+Time 5
+Waiting clients :   [(ID: 2, A: 14, S: 3), (ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: [(ID: 1, A: 4, S: 4)]
+Queue 1: closed
+
+Time 6
+Waiting clients :   [(ID: 2, A: 14, S: 3), (ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: [(ID: 1, A: 4, S: 4)]
+Queue 1: closed
+
+Time 7
+Waiting clients :   [(ID: 2, A: 14, S: 3), (ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: [(ID: 1, A: 4, S: 4)]
+Queue 1: closed
+
+Time 8
+Waiting clients :   [(ID: 2, A: 14, S: 3), (ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: closed
+Queue 1: closed
+
+Time 9
+Waiting clients :   [(ID: 2, A: 14, S: 3), (ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: closed
+Queue 1: closed
+
+Time 10
+Waiting clients :   [(ID: 2, A: 14, S: 3), (ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: closed
+Queue 1: closed
+
+Time 11
+Waiting clients :   [(ID: 2, A: 14, S: 3), (ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: closed
+Queue 1: closed
+
+Time 12
+Waiting clients :   [(ID: 2, A: 14, S: 3), (ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: closed
+Queue 1: closed
+
+Time 13
+Waiting clients :   [(ID: 2, A: 14, S: 3), (ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: closed
+Queue 1: closed
+
+Time 14
+Waiting clients :   [(ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: [(ID: 2, A: 14, S: 3)]
+Queue 1: closed
+
+Time 15
+Waiting clients :   [(ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: [(ID: 2, A: 14, S: 3)]
+Queue 1: closed
+
+Time 16
+Waiting clients :   [(ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: [(ID: 2, A: 14, S: 3)]
+Queue 1: closed
+
+Time 17
+Waiting clients :   [(ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: closed
+Queue 1: closed
+
+Time 18
+Waiting clients :   [(ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: closed
+Queue 1: closed
+
+Time 19
+Waiting clients :   [(ID: 3, A: 20, S: 3), (ID: 4, A: 22, S: 4)]
+Queue 0: closed
+Queue 1: closed
+
+Time 20
+Waiting clients :   [(ID: 4, A: 22, S: 4)]
+Queue 0: [(ID: 3, A: 20, S: 3)]
+Queue 1: closed
+
+Time 21
+Waiting clients :   [(ID: 4, A: 22, S: 4)]
+Queue 0: [(ID: 3, A: 20, S: 3)]
+Queue 1: closed
+
+Time 22
+Waiting clients :   []
+Queue 0: [(ID: 3, A: 20, S: 3)]
+Queue 1: [(ID: 4, A: 22, S: 4)]
+
+Time 23
+Waiting clients :   []
+Queue 0: closed
+Queue 1: [(ID: 4, A: 22, S: 4)]
+
+Time 24
+Waiting clients :   []
+Queue 0: closed
+Queue 1: [(ID: 4, A: 22, S: 4)]
+
+Time 25
+Waiting clients :   []
+Queue 0: closed
+Queue 1: [(ID: 4, A: 22, S: 4)]
+
+Time 26
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 27
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 28
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 29
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 30
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 31
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 32
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 33
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 34
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 35
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 36
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 37
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 38
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 39
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 40
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 41
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 42
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 43
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 44
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 45
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 46
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 47
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 48
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 49
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 50
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 51
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 52
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 53
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 54
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 55
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 56
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 57
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 58
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 59
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Time 60
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+
+Average service time is : 3
+Peak hour is : 14
+Average waiting time is : 7
+Time 1
+Waiting clients :   [(ID: 37, A: 2, S: 6), (ID: 13, A: 3, S: 7), (ID: 26, A: 4, S: 4), (ID: 14, A: 5, S: 2), (ID: 40, A: 5, S: 7), (ID: 41, A: 6, S: 7), (ID: 45, A: 6, S: 3), (ID: 32, A: 7, S: 3), (ID: 30, A: 9, S: 2), (ID: 7, A: 10, S: 4), (ID: 19, A: 11, S: 7), (ID: 39, A: 11, S: 3), (ID: 3, A: 12, S: 5), (ID: 23, A: 12, S: 2), (ID: 38, A: 12, S: 7), (ID: 47, A: 12, S: 3), (ID: 24, A: 13, S: 5), (ID: 25, A: 14, S: 1), (ID: 31, A: 14, S: 4), (ID: 43, A: 15, S: 6), (ID: 18, A: 16, S: 2), (ID: 20, A: 16, S: 6), (ID: 49, A: 16, S: 3), (ID: 1, A: 17, S: 1), (ID: 27, A: 17, S: 3), (ID: 6, A: 18, S: 3), (ID: 22, A: 19, S: 4), (ID: 36, A: 19, S: 2), (ID: 16, A: 20, S: 4), (ID: 4, A: 21, S: 1), (ID: 15, A: 21, S: 6), (ID: 35, A: 22, S: 5), (ID: 17, A: 23, S: 7), (ID: 5, A: 25, S: 4), (ID: 29, A: 27, S: 1), (ID: 46, A: 27, S: 2), (ID: 8, A: 28, S: 1), (ID: 12, A: 29, S: 4), (ID: 28, A: 29, S: 6), (ID: 50, A: 30, S: 5), (ID: 48, A: 32, S: 7), (ID: 11, A: 33, S: 5), (ID: 34, A: 34, S: 6), (ID: 42, A: 35, S: 1), (ID: 33, A: 36, S: 2), (ID: 2, A: 37, S: 7), (ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: closed
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+
+Time 2
+Waiting clients :   [(ID: 13, A: 3, S: 7), (ID: 26, A: 4, S: 4), (ID: 14, A: 5, S: 2), (ID: 40, A: 5, S: 7), (ID: 41, A: 6, S: 7), (ID: 45, A: 6, S: 3), (ID: 32, A: 7, S: 3), (ID: 30, A: 9, S: 2), (ID: 7, A: 10, S: 4), (ID: 19, A: 11, S: 7), (ID: 39, A: 11, S: 3), (ID: 3, A: 12, S: 5), (ID: 23, A: 12, S: 2), (ID: 38, A: 12, S: 7), (ID: 47, A: 12, S: 3), (ID: 24, A: 13, S: 5), (ID: 25, A: 14, S: 1), (ID: 31, A: 14, S: 4), (ID: 43, A: 15, S: 6), (ID: 18, A: 16, S: 2), (ID: 20, A: 16, S: 6), (ID: 49, A: 16, S: 3), (ID: 1, A: 17, S: 1), (ID: 27, A: 17, S: 3), (ID: 6, A: 18, S: 3), (ID: 22, A: 19, S: 4), (ID: 36, A: 19, S: 2), (ID: 16, A: 20, S: 4), (ID: 4, A: 21, S: 1), (ID: 15, A: 21, S: 6), (ID: 35, A: 22, S: 5), (ID: 17, A: 23, S: 7), (ID: 5, A: 25, S: 4), (ID: 29, A: 27, S: 1), (ID: 46, A: 27, S: 2), (ID: 8, A: 28, S: 1), (ID: 12, A: 29, S: 4), (ID: 28, A: 29, S: 6), (ID: 50, A: 30, S: 5), (ID: 48, A: 32, S: 7), (ID: 11, A: 33, S: 5), (ID: 34, A: 34, S: 6), (ID: 42, A: 35, S: 1), (ID: 33, A: 36, S: 2), (ID: 2, A: 37, S: 7), (ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 37, A: 2, S: 6)]
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+
+Time 3
+Waiting clients :   [(ID: 26, A: 4, S: 4), (ID: 14, A: 5, S: 2), (ID: 40, A: 5, S: 7), (ID: 41, A: 6, S: 7), (ID: 45, A: 6, S: 3), (ID: 32, A: 7, S: 3), (ID: 30, A: 9, S: 2), (ID: 7, A: 10, S: 4), (ID: 19, A: 11, S: 7), (ID: 39, A: 11, S: 3), (ID: 3, A: 12, S: 5), (ID: 23, A: 12, S: 2), (ID: 38, A: 12, S: 7), (ID: 47, A: 12, S: 3), (ID: 24, A: 13, S: 5), (ID: 25, A: 14, S: 1), (ID: 31, A: 14, S: 4), (ID: 43, A: 15, S: 6), (ID: 18, A: 16, S: 2), (ID: 20, A: 16, S: 6), (ID: 49, A: 16, S: 3), (ID: 1, A: 17, S: 1), (ID: 27, A: 17, S: 3), (ID: 6, A: 18, S: 3), (ID: 22, A: 19, S: 4), (ID: 36, A: 19, S: 2), (ID: 16, A: 20, S: 4), (ID: 4, A: 21, S: 1), (ID: 15, A: 21, S: 6), (ID: 35, A: 22, S: 5), (ID: 17, A: 23, S: 7), (ID: 5, A: 25, S: 4), (ID: 29, A: 27, S: 1), (ID: 46, A: 27, S: 2), (ID: 8, A: 28, S: 1), (ID: 12, A: 29, S: 4), (ID: 28, A: 29, S: 6), (ID: 50, A: 30, S: 5), (ID: 48, A: 32, S: 7), (ID: 11, A: 33, S: 5), (ID: 34, A: 34, S: 6), (ID: 42, A: 35, S: 1), (ID: 33, A: 36, S: 2), (ID: 2, A: 37, S: 7), (ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 37, A: 2, S: 6)]
+Queue 1: [(ID: 13, A: 3, S: 7)]
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+
+Time 4
+Waiting clients :   [(ID: 14, A: 5, S: 2), (ID: 40, A: 5, S: 7), (ID: 41, A: 6, S: 7), (ID: 45, A: 6, S: 3), (ID: 32, A: 7, S: 3), (ID: 30, A: 9, S: 2), (ID: 7, A: 10, S: 4), (ID: 19, A: 11, S: 7), (ID: 39, A: 11, S: 3), (ID: 3, A: 12, S: 5), (ID: 23, A: 12, S: 2), (ID: 38, A: 12, S: 7), (ID: 47, A: 12, S: 3), (ID: 24, A: 13, S: 5), (ID: 25, A: 14, S: 1), (ID: 31, A: 14, S: 4), (ID: 43, A: 15, S: 6), (ID: 18, A: 16, S: 2), (ID: 20, A: 16, S: 6), (ID: 49, A: 16, S: 3), (ID: 1, A: 17, S: 1), (ID: 27, A: 17, S: 3), (ID: 6, A: 18, S: 3), (ID: 22, A: 19, S: 4), (ID: 36, A: 19, S: 2), (ID: 16, A: 20, S: 4), (ID: 4, A: 21, S: 1), (ID: 15, A: 21, S: 6), (ID: 35, A: 22, S: 5), (ID: 17, A: 23, S: 7), (ID: 5, A: 25, S: 4), (ID: 29, A: 27, S: 1), (ID: 46, A: 27, S: 2), (ID: 8, A: 28, S: 1), (ID: 12, A: 29, S: 4), (ID: 28, A: 29, S: 6), (ID: 50, A: 30, S: 5), (ID: 48, A: 32, S: 7), (ID: 11, A: 33, S: 5), (ID: 34, A: 34, S: 6), (ID: 42, A: 35, S: 1), (ID: 33, A: 36, S: 2), (ID: 2, A: 37, S: 7), (ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 37, A: 2, S: 6)]
+Queue 1: [(ID: 13, A: 3, S: 7)]
+Queue 2: [(ID: 26, A: 4, S: 4)]
+Queue 3: closed
+Queue 4: closed
+
+Time 5
+Waiting clients :   [(ID: 41, A: 6, S: 7), (ID: 45, A: 6, S: 3), (ID: 32, A: 7, S: 3), (ID: 30, A: 9, S: 2), (ID: 7, A: 10, S: 4), (ID: 19, A: 11, S: 7), (ID: 39, A: 11, S: 3), (ID: 3, A: 12, S: 5), (ID: 23, A: 12, S: 2), (ID: 38, A: 12, S: 7), (ID: 47, A: 12, S: 3), (ID: 24, A: 13, S: 5), (ID: 25, A: 14, S: 1), (ID: 31, A: 14, S: 4), (ID: 43, A: 15, S: 6), (ID: 18, A: 16, S: 2), (ID: 20, A: 16, S: 6), (ID: 49, A: 16, S: 3), (ID: 1, A: 17, S: 1), (ID: 27, A: 17, S: 3), (ID: 6, A: 18, S: 3), (ID: 22, A: 19, S: 4), (ID: 36, A: 19, S: 2), (ID: 16, A: 20, S: 4), (ID: 4, A: 21, S: 1), (ID: 15, A: 21, S: 6), (ID: 35, A: 22, S: 5), (ID: 17, A: 23, S: 7), (ID: 5, A: 25, S: 4), (ID: 29, A: 27, S: 1), (ID: 46, A: 27, S: 2), (ID: 8, A: 28, S: 1), (ID: 12, A: 29, S: 4), (ID: 28, A: 29, S: 6), (ID: 50, A: 30, S: 5), (ID: 48, A: 32, S: 7), (ID: 11, A: 33, S: 5), (ID: 34, A: 34, S: 6), (ID: 42, A: 35, S: 1), (ID: 33, A: 36, S: 2), (ID: 2, A: 37, S: 7), (ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 37, A: 2, S: 6)]
+Queue 1: [(ID: 13, A: 3, S: 7)]
+Queue 2: [(ID: 26, A: 4, S: 4)]
+Queue 3: [(ID: 14, A: 5, S: 2)]
+Queue 4: [(ID: 40, A: 5, S: 7)]
+
+Time 6
+Waiting clients :   [(ID: 32, A: 7, S: 3), (ID: 30, A: 9, S: 2), (ID: 7, A: 10, S: 4), (ID: 19, A: 11, S: 7), (ID: 39, A: 11, S: 3), (ID: 3, A: 12, S: 5), (ID: 23, A: 12, S: 2), (ID: 38, A: 12, S: 7), (ID: 47, A: 12, S: 3), (ID: 24, A: 13, S: 5), (ID: 25, A: 14, S: 1), (ID: 31, A: 14, S: 4), (ID: 43, A: 15, S: 6), (ID: 18, A: 16, S: 2), (ID: 20, A: 16, S: 6), (ID: 49, A: 16, S: 3), (ID: 1, A: 17, S: 1), (ID: 27, A: 17, S: 3), (ID: 6, A: 18, S: 3), (ID: 22, A: 19, S: 4), (ID: 36, A: 19, S: 2), (ID: 16, A: 20, S: 4), (ID: 4, A: 21, S: 1), (ID: 15, A: 21, S: 6), (ID: 35, A: 22, S: 5), (ID: 17, A: 23, S: 7), (ID: 5, A: 25, S: 4), (ID: 29, A: 27, S: 1), (ID: 46, A: 27, S: 2), (ID: 8, A: 28, S: 1), (ID: 12, A: 29, S: 4), (ID: 28, A: 29, S: 6), (ID: 50, A: 30, S: 5), (ID: 48, A: 32, S: 7), (ID: 11, A: 33, S: 5), (ID: 34, A: 34, S: 6), (ID: 42, A: 35, S: 1), (ID: 33, A: 36, S: 2), (ID: 2, A: 37, S: 7), (ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 37, A: 2, S: 6)]
+Queue 1: [(ID: 13, A: 3, S: 7)]
+Queue 2: [(ID: 26, A: 4, S: 4), (ID: 45, A: 6, S: 3)]
+Queue 3: [(ID: 14, A: 5, S: 2), (ID: 41, A: 6, S: 7)]
+Queue 4: [(ID: 40, A: 5, S: 7)]
+
+Time 7
+Waiting clients :   [(ID: 30, A: 9, S: 2), (ID: 7, A: 10, S: 4), (ID: 19, A: 11, S: 7), (ID: 39, A: 11, S: 3), (ID: 3, A: 12, S: 5), (ID: 23, A: 12, S: 2), (ID: 38, A: 12, S: 7), (ID: 47, A: 12, S: 3), (ID: 24, A: 13, S: 5), (ID: 25, A: 14, S: 1), (ID: 31, A: 14, S: 4), (ID: 43, A: 15, S: 6), (ID: 18, A: 16, S: 2), (ID: 20, A: 16, S: 6), (ID: 49, A: 16, S: 3), (ID: 1, A: 17, S: 1), (ID: 27, A: 17, S: 3), (ID: 6, A: 18, S: 3), (ID: 22, A: 19, S: 4), (ID: 36, A: 19, S: 2), (ID: 16, A: 20, S: 4), (ID: 4, A: 21, S: 1), (ID: 15, A: 21, S: 6), (ID: 35, A: 22, S: 5), (ID: 17, A: 23, S: 7), (ID: 5, A: 25, S: 4), (ID: 29, A: 27, S: 1), (ID: 46, A: 27, S: 2), (ID: 8, A: 28, S: 1), (ID: 12, A: 29, S: 4), (ID: 28, A: 29, S: 6), (ID: 50, A: 30, S: 5), (ID: 48, A: 32, S: 7), (ID: 11, A: 33, S: 5), (ID: 34, A: 34, S: 6), (ID: 42, A: 35, S: 1), (ID: 33, A: 36, S: 2), (ID: 2, A: 37, S: 7), (ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 37, A: 2, S: 6), (ID: 32, A: 7, S: 3)]
+Queue 1: [(ID: 13, A: 3, S: 7)]
+Queue 2: [(ID: 26, A: 4, S: 4), (ID: 45, A: 6, S: 3)]
+Queue 3: [(ID: 41, A: 6, S: 7)]
+Queue 4: [(ID: 40, A: 5, S: 7)]
+
+Time 8
+Waiting clients :   [(ID: 30, A: 9, S: 2), (ID: 7, A: 10, S: 4), (ID: 19, A: 11, S: 7), (ID: 39, A: 11, S: 3), (ID: 3, A: 12, S: 5), (ID: 23, A: 12, S: 2), (ID: 38, A: 12, S: 7), (ID: 47, A: 12, S: 3), (ID: 24, A: 13, S: 5), (ID: 25, A: 14, S: 1), (ID: 31, A: 14, S: 4), (ID: 43, A: 15, S: 6), (ID: 18, A: 16, S: 2), (ID: 20, A: 16, S: 6), (ID: 49, A: 16, S: 3), (ID: 1, A: 17, S: 1), (ID: 27, A: 17, S: 3), (ID: 6, A: 18, S: 3), (ID: 22, A: 19, S: 4), (ID: 36, A: 19, S: 2), (ID: 16, A: 20, S: 4), (ID: 4, A: 21, S: 1), (ID: 15, A: 21, S: 6), (ID: 35, A: 22, S: 5), (ID: 17, A: 23, S: 7), (ID: 5, A: 25, S: 4), (ID: 29, A: 27, S: 1), (ID: 46, A: 27, S: 2), (ID: 8, A: 28, S: 1), (ID: 12, A: 29, S: 4), (ID: 28, A: 29, S: 6), (ID: 50, A: 30, S: 5), (ID: 48, A: 32, S: 7), (ID: 11, A: 33, S: 5), (ID: 34, A: 34, S: 6), (ID: 42, A: 35, S: 1), (ID: 33, A: 36, S: 2), (ID: 2, A: 37, S: 7), (ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 32, A: 7, S: 3)]
+Queue 1: [(ID: 13, A: 3, S: 7)]
+Queue 2: [(ID: 45, A: 6, S: 3)]
+Queue 3: [(ID: 41, A: 6, S: 7)]
+Queue 4: [(ID: 40, A: 5, S: 7)]
+
+Time 9
+Waiting clients :   [(ID: 7, A: 10, S: 4), (ID: 19, A: 11, S: 7), (ID: 39, A: 11, S: 3), (ID: 3, A: 12, S: 5), (ID: 23, A: 12, S: 2), (ID: 38, A: 12, S: 7), (ID: 47, A: 12, S: 3), (ID: 24, A: 13, S: 5), (ID: 25, A: 14, S: 1), (ID: 31, A: 14, S: 4), (ID: 43, A: 15, S: 6), (ID: 18, A: 16, S: 2), (ID: 20, A: 16, S: 6), (ID: 49, A: 16, S: 3), (ID: 1, A: 17, S: 1), (ID: 27, A: 17, S: 3), (ID: 6, A: 18, S: 3), (ID: 22, A: 19, S: 4), (ID: 36, A: 19, S: 2), (ID: 16, A: 20, S: 4), (ID: 4, A: 21, S: 1), (ID: 15, A: 21, S: 6), (ID: 35, A: 22, S: 5), (ID: 17, A: 23, S: 7), (ID: 5, A: 25, S: 4), (ID: 29, A: 27, S: 1), (ID: 46, A: 27, S: 2), (ID: 8, A: 28, S: 1), (ID: 12, A: 29, S: 4), (ID: 28, A: 29, S: 6), (ID: 50, A: 30, S: 5), (ID: 48, A: 32, S: 7), (ID: 11, A: 33, S: 5), (ID: 34, A: 34, S: 6), (ID: 42, A: 35, S: 1), (ID: 33, A: 36, S: 2), (ID: 2, A: 37, S: 7), (ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 32, A: 7, S: 3), (ID: 30, A: 9, S: 2)]
+Queue 1: [(ID: 13, A: 3, S: 7)]
+Queue 2: [(ID: 45, A: 6, S: 3)]
+Queue 3: [(ID: 41, A: 6, S: 7)]
+Queue 4: [(ID: 40, A: 5, S: 7)]
+
+Time 10
+Waiting clients :   [(ID: 19, A: 11, S: 7), (ID: 39, A: 11, S: 3), (ID: 3, A: 12, S: 5), (ID: 23, A: 12, S: 2), (ID: 38, A: 12, S: 7), (ID: 47, A: 12, S: 3), (ID: 24, A: 13, S: 5), (ID: 25, A: 14, S: 1), (ID: 31, A: 14, S: 4), (ID: 43, A: 15, S: 6), (ID: 18, A: 16, S: 2), (ID: 20, A: 16, S: 6), (ID: 49, A: 16, S: 3), (ID: 1, A: 17, S: 1), (ID: 27, A: 17, S: 3), (ID: 6, A: 18, S: 3), (ID: 22, A: 19, S: 4), (ID: 36, A: 19, S: 2), (ID: 16, A: 20, S: 4), (ID: 4, A: 21, S: 1), (ID: 15, A: 21, S: 6), (ID: 35, A: 22, S: 5), (ID: 17, A: 23, S: 7), (ID: 5, A: 25, S: 4), (ID: 29, A: 27, S: 1), (ID: 46, A: 27, S: 2), (ID: 8, A: 28, S: 1), (ID: 12, A: 29, S: 4), (ID: 28, A: 29, S: 6), (ID: 50, A: 30, S: 5), (ID: 48, A: 32, S: 7), (ID: 11, A: 33, S: 5), (ID: 34, A: 34, S: 6), (ID: 42, A: 35, S: 1), (ID: 33, A: 36, S: 2), (ID: 2, A: 37, S: 7), (ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 32, A: 7, S: 3), (ID: 30, A: 9, S: 2)]
+Queue 1: [(ID: 7, A: 10, S: 4)]
+Queue 2: [(ID: 45, A: 6, S: 3)]
+Queue 3: [(ID: 41, A: 6, S: 7)]
+Queue 4: [(ID: 40, A: 5, S: 7)]
+
+Time 11
+Waiting clients :   [(ID: 3, A: 12, S: 5), (ID: 23, A: 12, S: 2), (ID: 38, A: 12, S: 7), (ID: 47, A: 12, S: 3), (ID: 24, A: 13, S: 5), (ID: 25, A: 14, S: 1), (ID: 31, A: 14, S: 4), (ID: 43, A: 15, S: 6), (ID: 18, A: 16, S: 2), (ID: 20, A: 16, S: 6), (ID: 49, A: 16, S: 3), (ID: 1, A: 17, S: 1), (ID: 27, A: 17, S: 3), (ID: 6, A: 18, S: 3), (ID: 22, A: 19, S: 4), (ID: 36, A: 19, S: 2), (ID: 16, A: 20, S: 4), (ID: 4, A: 21, S: 1), (ID: 15, A: 21, S: 6), (ID: 35, A: 22, S: 5), (ID: 17, A: 23, S: 7), (ID: 5, A: 25, S: 4), (ID: 29, A: 27, S: 1), (ID: 46, A: 27, S: 2), (ID: 8, A: 28, S: 1), (ID: 12, A: 29, S: 4), (ID: 28, A: 29, S: 6), (ID: 50, A: 30, S: 5), (ID: 48, A: 32, S: 7), (ID: 11, A: 33, S: 5), (ID: 34, A: 34, S: 6), (ID: 42, A: 35, S: 1), (ID: 33, A: 36, S: 2), (ID: 2, A: 37, S: 7), (ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 30, A: 9, S: 2), (ID: 39, A: 11, S: 3)]
+Queue 1: [(ID: 7, A: 10, S: 4)]
+Queue 2: [(ID: 19, A: 11, S: 7)]
+Queue 3: [(ID: 41, A: 6, S: 7)]
+Queue 4: [(ID: 40, A: 5, S: 7)]
+
+Time 12
+Waiting clients :   [(ID: 24, A: 13, S: 5), (ID: 25, A: 14, S: 1), (ID: 31, A: 14, S: 4), (ID: 43, A: 15, S: 6), (ID: 18, A: 16, S: 2), (ID: 20, A: 16, S: 6), (ID: 49, A: 16, S: 3), (ID: 1, A: 17, S: 1), (ID: 27, A: 17, S: 3), (ID: 6, A: 18, S: 3), (ID: 22, A: 19, S: 4), (ID: 36, A: 19, S: 2), (ID: 16, A: 20, S: 4), (ID: 4, A: 21, S: 1), (ID: 15, A: 21, S: 6), (ID: 35, A: 22, S: 5), (ID: 17, A: 23, S: 7), (ID: 5, A: 25, S: 4), (ID: 29, A: 27, S: 1), (ID: 46, A: 27, S: 2), (ID: 8, A: 28, S: 1), (ID: 12, A: 29, S: 4), (ID: 28, A: 29, S: 6), (ID: 50, A: 30, S: 5), (ID: 48, A: 32, S: 7), (ID: 11, A: 33, S: 5), (ID: 34, A: 34, S: 6), (ID: 42, A: 35, S: 1), (ID: 33, A: 36, S: 2), (ID: 2, A: 37, S: 7), (ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 39, A: 11, S: 3), (ID: 23, A: 12, S: 2), (ID: 47, A: 12, S: 3)]
+Queue 1: [(ID: 7, A: 10, S: 4), (ID: 38, A: 12, S: 7)]
+Queue 2: [(ID: 19, A: 11, S: 7)]
+Queue 3: [(ID: 41, A: 6, S: 7)]
+Queue 4: [(ID: 3, A: 12, S: 5)]
+
+Time 13
+Waiting clients :   [(ID: 25, A: 14, S: 1), (ID: 31, A: 14, S: 4), (ID: 43, A: 15, S: 6), (ID: 18, A: 16, S: 2), (ID: 20, A: 16, S: 6), (ID: 49, A: 16, S: 3), (ID: 1, A: 17, S: 1), (ID: 27, A: 17, S: 3), (ID: 6, A: 18, S: 3), (ID: 22, A: 19, S: 4), (ID: 36, A: 19, S: 2), (ID: 16, A: 20, S: 4), (ID: 4, A: 21, S: 1), (ID: 15, A: 21, S: 6), (ID: 35, A: 22, S: 5), (ID: 17, A: 23, S: 7), (ID: 5, A: 25, S: 4), (ID: 29, A: 27, S: 1), (ID: 46, A: 27, S: 2), (ID: 8, A: 28, S: 1), (ID: 12, A: 29, S: 4), (ID: 28, A: 29, S: 6), (ID: 50, A: 30, S: 5), (ID: 48, A: 32, S: 7), (ID: 11, A: 33, S: 5), (ID: 34, A: 34, S: 6), (ID: 42, A: 35, S: 1), (ID: 33, A: 36, S: 2), (ID: 2, A: 37, S: 7), (ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 39, A: 11, S: 3), (ID: 23, A: 12, S: 2), (ID: 47, A: 12, S: 3)]
+Queue 1: [(ID: 7, A: 10, S: 4), (ID: 38, A: 12, S: 7)]
+Queue 2: [(ID: 19, A: 11, S: 7)]
+Queue 3: [(ID: 41, A: 6, S: 7)]
+Queue 4: [(ID: 3, A: 12, S: 5), (ID: 24, A: 13, S: 5)]
+
+Time 14
+Waiting clients :   [(ID: 43, A: 15, S: 6), (ID: 18, A: 16, S: 2), (ID: 20, A: 16, S: 6), (ID: 49, A: 16, S: 3), (ID: 1, A: 17, S: 1), (ID: 27, A: 17, S: 3), (ID: 6, A: 18, S: 3), (ID: 22, A: 19, S: 4), (ID: 36, A: 19, S: 2), (ID: 16, A: 20, S: 4), (ID: 4, A: 21, S: 1), (ID: 15, A: 21, S: 6), (ID: 35, A: 22, S: 5), (ID: 17, A: 23, S: 7), (ID: 5, A: 25, S: 4), (ID: 29, A: 27, S: 1), (ID: 46, A: 27, S: 2), (ID: 8, A: 28, S: 1), (ID: 12, A: 29, S: 4), (ID: 28, A: 29, S: 6), (ID: 50, A: 30, S: 5), (ID: 48, A: 32, S: 7), (ID: 11, A: 33, S: 5), (ID: 34, A: 34, S: 6), (ID: 42, A: 35, S: 1), (ID: 33, A: 36, S: 2), (ID: 2, A: 37, S: 7), (ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 39, A: 11, S: 3), (ID: 23, A: 12, S: 2), (ID: 47, A: 12, S: 3)]
+Queue 1: [(ID: 38, A: 12, S: 7)]
+Queue 2: [(ID: 19, A: 11, S: 7)]
+Queue 3: [(ID: 25, A: 14, S: 1), (ID: 31, A: 14, S: 4)]
+Queue 4: [(ID: 3, A: 12, S: 5), (ID: 24, A: 13, S: 5)]
+
+Time 15
+Waiting clients :   [(ID: 18, A: 16, S: 2), (ID: 20, A: 16, S: 6), (ID: 49, A: 16, S: 3), (ID: 1, A: 17, S: 1), (ID: 27, A: 17, S: 3), (ID: 6, A: 18, S: 3), (ID: 22, A: 19, S: 4), (ID: 36, A: 19, S: 2), (ID: 16, A: 20, S: 4), (ID: 4, A: 21, S: 1), (ID: 15, A: 21, S: 6), (ID: 35, A: 22, S: 5), (ID: 17, A: 23, S: 7), (ID: 5, A: 25, S: 4), (ID: 29, A: 27, S: 1), (ID: 46, A: 27, S: 2), (ID: 8, A: 28, S: 1), (ID: 12, A: 29, S: 4), (ID: 28, A: 29, S: 6), (ID: 50, A: 30, S: 5), (ID: 48, A: 32, S: 7), (ID: 11, A: 33, S: 5), (ID: 34, A: 34, S: 6), (ID: 42, A: 35, S: 1), (ID: 33, A: 36, S: 2), (ID: 2, A: 37, S: 7), (ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 23, A: 12, S: 2), (ID: 47, A: 12, S: 3)]
+Queue 1: [(ID: 38, A: 12, S: 7)]
+Queue 2: [(ID: 19, A: 11, S: 7)]
+Queue 3: [(ID: 31, A: 14, S: 4), (ID: 43, A: 15, S: 6)]
+Queue 4: [(ID: 3, A: 12, S: 5), (ID: 24, A: 13, S: 5)]
+
+Time 16
+Waiting clients :   [(ID: 1, A: 17, S: 1), (ID: 27, A: 17, S: 3), (ID: 6, A: 18, S: 3), (ID: 22, A: 19, S: 4), (ID: 36, A: 19, S: 2), (ID: 16, A: 20, S: 4), (ID: 4, A: 21, S: 1), (ID: 15, A: 21, S: 6), (ID: 35, A: 22, S: 5), (ID: 17, A: 23, S: 7), (ID: 5, A: 25, S: 4), (ID: 29, A: 27, S: 1), (ID: 46, A: 27, S: 2), (ID: 8, A: 28, S: 1), (ID: 12, A: 29, S: 4), (ID: 28, A: 29, S: 6), (ID: 50, A: 30, S: 5), (ID: 48, A: 32, S: 7), (ID: 11, A: 33, S: 5), (ID: 34, A: 34, S: 6), (ID: 42, A: 35, S: 1), (ID: 33, A: 36, S: 2), (ID: 2, A: 37, S: 7), (ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 23, A: 12, S: 2), (ID: 47, A: 12, S: 3), (ID: 18, A: 16, S: 2), (ID: 20, A: 16, S: 6)]
+Queue 1: [(ID: 38, A: 12, S: 7), (ID: 49, A: 16, S: 3)]
+Queue 2: [(ID: 19, A: 11, S: 7)]
+Queue 3: [(ID: 31, A: 14, S: 4), (ID: 43, A: 15, S: 6)]
+Queue 4: [(ID: 3, A: 12, S: 5), (ID: 24, A: 13, S: 5)]
+
+Time 17
+Waiting clients :   [(ID: 6, A: 18, S: 3), (ID: 22, A: 19, S: 4), (ID: 36, A: 19, S: 2), (ID: 16, A: 20, S: 4), (ID: 4, A: 21, S: 1), (ID: 15, A: 21, S: 6), (ID: 35, A: 22, S: 5), (ID: 17, A: 23, S: 7), (ID: 5, A: 25, S: 4), (ID: 29, A: 27, S: 1), (ID: 46, A: 27, S: 2), (ID: 8, A: 28, S: 1), (ID: 12, A: 29, S: 4), (ID: 28, A: 29, S: 6), (ID: 50, A: 30, S: 5), (ID: 48, A: 32, S: 7), (ID: 11, A: 33, S: 5), (ID: 34, A: 34, S: 6), (ID: 42, A: 35, S: 1), (ID: 33, A: 36, S: 2), (ID: 2, A: 37, S: 7), (ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 47, A: 12, S: 3), (ID: 18, A: 16, S: 2), (ID: 20, A: 16, S: 6)]
+Queue 1: [(ID: 38, A: 12, S: 7), (ID: 49, A: 16, S: 3)]
+Queue 2: [(ID: 19, A: 11, S: 7)]
+Queue 3: [(ID: 31, A: 14, S: 4), (ID: 43, A: 15, S: 6)]
+Queue 4: [(ID: 24, A: 13, S: 5), (ID: 1, A: 17, S: 1), (ID: 27, A: 17, S: 3)]
+
+Time 18
+Waiting clients :   [(ID: 22, A: 19, S: 4), (ID: 36, A: 19, S: 2), (ID: 16, A: 20, S: 4), (ID: 4, A: 21, S: 1), (ID: 15, A: 21, S: 6), (ID: 35, A: 22, S: 5), (ID: 17, A: 23, S: 7), (ID: 5, A: 25, S: 4), (ID: 29, A: 27, S: 1), (ID: 46, A: 27, S: 2), (ID: 8, A: 28, S: 1), (ID: 12, A: 29, S: 4), (ID: 28, A: 29, S: 6), (ID: 50, A: 30, S: 5), (ID: 48, A: 32, S: 7), (ID: 11, A: 33, S: 5), (ID: 34, A: 34, S: 6), (ID: 42, A: 35, S: 1), (ID: 33, A: 36, S: 2), (ID: 2, A: 37, S: 7), (ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 47, A: 12, S: 3), (ID: 18, A: 16, S: 2), (ID: 20, A: 16, S: 6)]
+Queue 1: [(ID: 38, A: 12, S: 7), (ID: 49, A: 16, S: 3)]
+Queue 2: [(ID: 6, A: 18, S: 3)]
+Queue 3: [(ID: 31, A: 14, S: 4), (ID: 43, A: 15, S: 6)]
+Queue 4: [(ID: 24, A: 13, S: 5), (ID: 1, A: 17, S: 1), (ID: 27, A: 17, S: 3)]
+
+Time 19
+Waiting clients :   [(ID: 16, A: 20, S: 4), (ID: 4, A: 21, S: 1), (ID: 15, A: 21, S: 6), (ID: 35, A: 22, S: 5), (ID: 17, A: 23, S: 7), (ID: 5, A: 25, S: 4), (ID: 29, A: 27, S: 1), (ID: 46, A: 27, S: 2), (ID: 8, A: 28, S: 1), (ID: 12, A: 29, S: 4), (ID: 28, A: 29, S: 6), (ID: 50, A: 30, S: 5), (ID: 48, A: 32, S: 7), (ID: 11, A: 33, S: 5), (ID: 34, A: 34, S: 6), (ID: 42, A: 35, S: 1), (ID: 33, A: 36, S: 2), (ID: 2, A: 37, S: 7), (ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 47, A: 12, S: 3), (ID: 18, A: 16, S: 2), (ID: 20, A: 16, S: 6)]
+Queue 1: [(ID: 38, A: 12, S: 7), (ID: 49, A: 16, S: 3)]
+Queue 2: [(ID: 6, A: 18, S: 3), (ID: 22, A: 19, S: 4)]
+Queue 3: [(ID: 43, A: 15, S: 6), (ID: 36, A: 19, S: 2)]
+Queue 4: [(ID: 24, A: 13, S: 5), (ID: 1, A: 17, S: 1), (ID: 27, A: 17, S: 3)]
+
+Time 20
+Waiting clients :   [(ID: 4, A: 21, S: 1), (ID: 15, A: 21, S: 6), (ID: 35, A: 22, S: 5), (ID: 17, A: 23, S: 7), (ID: 5, A: 25, S: 4), (ID: 29, A: 27, S: 1), (ID: 46, A: 27, S: 2), (ID: 8, A: 28, S: 1), (ID: 12, A: 29, S: 4), (ID: 28, A: 29, S: 6), (ID: 50, A: 30, S: 5), (ID: 48, A: 32, S: 7), (ID: 11, A: 33, S: 5), (ID: 34, A: 34, S: 6), (ID: 42, A: 35, S: 1), (ID: 33, A: 36, S: 2), (ID: 2, A: 37, S: 7), (ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 18, A: 16, S: 2), (ID: 20, A: 16, S: 6)]
+Queue 1: [(ID: 49, A: 16, S: 3), (ID: 16, A: 20, S: 4)]
+Queue 2: [(ID: 6, A: 18, S: 3), (ID: 22, A: 19, S: 4)]
+Queue 3: [(ID: 43, A: 15, S: 6), (ID: 36, A: 19, S: 2)]
+Queue 4: [(ID: 24, A: 13, S: 5), (ID: 1, A: 17, S: 1), (ID: 27, A: 17, S: 3)]
+
+Time 21
+Waiting clients :   [(ID: 35, A: 22, S: 5), (ID: 17, A: 23, S: 7), (ID: 5, A: 25, S: 4), (ID: 29, A: 27, S: 1), (ID: 46, A: 27, S: 2), (ID: 8, A: 28, S: 1), (ID: 12, A: 29, S: 4), (ID: 28, A: 29, S: 6), (ID: 50, A: 30, S: 5), (ID: 48, A: 32, S: 7), (ID: 11, A: 33, S: 5), (ID: 34, A: 34, S: 6), (ID: 42, A: 35, S: 1), (ID: 33, A: 36, S: 2), (ID: 2, A: 37, S: 7), (ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 18, A: 16, S: 2), (ID: 20, A: 16, S: 6)]
+Queue 1: [(ID: 49, A: 16, S: 3), (ID: 16, A: 20, S: 4)]
+Queue 2: [(ID: 22, A: 19, S: 4), (ID: 4, A: 21, S: 1), (ID: 15, A: 21, S: 6)]
+Queue 3: [(ID: 43, A: 15, S: 6), (ID: 36, A: 19, S: 2)]
+Queue 4: [(ID: 24, A: 13, S: 5), (ID: 1, A: 17, S: 1), (ID: 27, A: 17, S: 3)]
+
+Time 22
+Waiting clients :   [(ID: 17, A: 23, S: 7), (ID: 5, A: 25, S: 4), (ID: 29, A: 27, S: 1), (ID: 46, A: 27, S: 2), (ID: 8, A: 28, S: 1), (ID: 12, A: 29, S: 4), (ID: 28, A: 29, S: 6), (ID: 50, A: 30, S: 5), (ID: 48, A: 32, S: 7), (ID: 11, A: 33, S: 5), (ID: 34, A: 34, S: 6), (ID: 42, A: 35, S: 1), (ID: 33, A: 36, S: 2), (ID: 2, A: 37, S: 7), (ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 20, A: 16, S: 6)]
+Queue 1: [(ID: 49, A: 16, S: 3), (ID: 16, A: 20, S: 4)]
+Queue 2: [(ID: 22, A: 19, S: 4), (ID: 4, A: 21, S: 1), (ID: 15, A: 21, S: 6)]
+Queue 3: [(ID: 43, A: 15, S: 6), (ID: 36, A: 19, S: 2)]
+Queue 4: [(ID: 1, A: 17, S: 1), (ID: 27, A: 17, S: 3), (ID: 35, A: 22, S: 5)]
+
+Time 23
+Waiting clients :   [(ID: 5, A: 25, S: 4), (ID: 29, A: 27, S: 1), (ID: 46, A: 27, S: 2), (ID: 8, A: 28, S: 1), (ID: 12, A: 29, S: 4), (ID: 28, A: 29, S: 6), (ID: 50, A: 30, S: 5), (ID: 48, A: 32, S: 7), (ID: 11, A: 33, S: 5), (ID: 34, A: 34, S: 6), (ID: 42, A: 35, S: 1), (ID: 33, A: 36, S: 2), (ID: 2, A: 37, S: 7), (ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 20, A: 16, S: 6)]
+Queue 1: [(ID: 16, A: 20, S: 4), (ID: 17, A: 23, S: 7)]
+Queue 2: [(ID: 22, A: 19, S: 4), (ID: 4, A: 21, S: 1), (ID: 15, A: 21, S: 6)]
+Queue 3: [(ID: 43, A: 15, S: 6), (ID: 36, A: 19, S: 2)]
+Queue 4: [(ID: 27, A: 17, S: 3), (ID: 35, A: 22, S: 5)]
+
+Time 24
+Waiting clients :   [(ID: 5, A: 25, S: 4), (ID: 29, A: 27, S: 1), (ID: 46, A: 27, S: 2), (ID: 8, A: 28, S: 1), (ID: 12, A: 29, S: 4), (ID: 28, A: 29, S: 6), (ID: 50, A: 30, S: 5), (ID: 48, A: 32, S: 7), (ID: 11, A: 33, S: 5), (ID: 34, A: 34, S: 6), (ID: 42, A: 35, S: 1), (ID: 33, A: 36, S: 2), (ID: 2, A: 37, S: 7), (ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 20, A: 16, S: 6)]
+Queue 1: [(ID: 16, A: 20, S: 4), (ID: 17, A: 23, S: 7)]
+Queue 2: [(ID: 22, A: 19, S: 4), (ID: 4, A: 21, S: 1), (ID: 15, A: 21, S: 6)]
+Queue 3: [(ID: 43, A: 15, S: 6), (ID: 36, A: 19, S: 2)]
+Queue 4: [(ID: 27, A: 17, S: 3), (ID: 35, A: 22, S: 5)]
+
+Time 25
+Waiting clients :   [(ID: 29, A: 27, S: 1), (ID: 46, A: 27, S: 2), (ID: 8, A: 28, S: 1), (ID: 12, A: 29, S: 4), (ID: 28, A: 29, S: 6), (ID: 50, A: 30, S: 5), (ID: 48, A: 32, S: 7), (ID: 11, A: 33, S: 5), (ID: 34, A: 34, S: 6), (ID: 42, A: 35, S: 1), (ID: 33, A: 36, S: 2), (ID: 2, A: 37, S: 7), (ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 20, A: 16, S: 6)]
+Queue 1: [(ID: 16, A: 20, S: 4), (ID: 17, A: 23, S: 7)]
+Queue 2: [(ID: 4, A: 21, S: 1), (ID: 15, A: 21, S: 6)]
+Queue 3: [(ID: 36, A: 19, S: 2), (ID: 5, A: 25, S: 4)]
+Queue 4: [(ID: 35, A: 22, S: 5)]
+
+Time 26
+Waiting clients :   [(ID: 29, A: 27, S: 1), (ID: 46, A: 27, S: 2), (ID: 8, A: 28, S: 1), (ID: 12, A: 29, S: 4), (ID: 28, A: 29, S: 6), (ID: 50, A: 30, S: 5), (ID: 48, A: 32, S: 7), (ID: 11, A: 33, S: 5), (ID: 34, A: 34, S: 6), (ID: 42, A: 35, S: 1), (ID: 33, A: 36, S: 2), (ID: 2, A: 37, S: 7), (ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 20, A: 16, S: 6)]
+Queue 1: [(ID: 16, A: 20, S: 4), (ID: 17, A: 23, S: 7)]
+Queue 2: [(ID: 15, A: 21, S: 6)]
+Queue 3: [(ID: 5, A: 25, S: 4)]
+Queue 4: [(ID: 35, A: 22, S: 5)]
+
+Time 27
+Waiting clients :   [(ID: 8, A: 28, S: 1), (ID: 12, A: 29, S: 4), (ID: 28, A: 29, S: 6), (ID: 50, A: 30, S: 5), (ID: 48, A: 32, S: 7), (ID: 11, A: 33, S: 5), (ID: 34, A: 34, S: 6), (ID: 42, A: 35, S: 1), (ID: 33, A: 36, S: 2), (ID: 2, A: 37, S: 7), (ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 29, A: 27, S: 1), (ID: 46, A: 27, S: 2)]
+Queue 1: [(ID: 17, A: 23, S: 7)]
+Queue 2: [(ID: 15, A: 21, S: 6)]
+Queue 3: [(ID: 5, A: 25, S: 4)]
+Queue 4: [(ID: 35, A: 22, S: 5)]
+
+Time 28
+Waiting clients :   [(ID: 12, A: 29, S: 4), (ID: 28, A: 29, S: 6), (ID: 50, A: 30, S: 5), (ID: 48, A: 32, S: 7), (ID: 11, A: 33, S: 5), (ID: 34, A: 34, S: 6), (ID: 42, A: 35, S: 1), (ID: 33, A: 36, S: 2), (ID: 2, A: 37, S: 7), (ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 46, A: 27, S: 2), (ID: 8, A: 28, S: 1)]
+Queue 1: [(ID: 17, A: 23, S: 7)]
+Queue 2: [(ID: 15, A: 21, S: 6)]
+Queue 3: [(ID: 5, A: 25, S: 4)]
+Queue 4: [(ID: 35, A: 22, S: 5)]
+
+Time 29
+Waiting clients :   [(ID: 50, A: 30, S: 5), (ID: 48, A: 32, S: 7), (ID: 11, A: 33, S: 5), (ID: 34, A: 34, S: 6), (ID: 42, A: 35, S: 1), (ID: 33, A: 36, S: 2), (ID: 2, A: 37, S: 7), (ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 46, A: 27, S: 2), (ID: 8, A: 28, S: 1), (ID: 12, A: 29, S: 4)]
+Queue 1: [(ID: 17, A: 23, S: 7)]
+Queue 2: [(ID: 15, A: 21, S: 6)]
+Queue 3: [(ID: 5, A: 25, S: 4), (ID: 28, A: 29, S: 6)]
+Queue 4: [(ID: 35, A: 22, S: 5)]
+
+Time 30
+Waiting clients :   [(ID: 48, A: 32, S: 7), (ID: 11, A: 33, S: 5), (ID: 34, A: 34, S: 6), (ID: 42, A: 35, S: 1), (ID: 33, A: 36, S: 2), (ID: 2, A: 37, S: 7), (ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 8, A: 28, S: 1), (ID: 12, A: 29, S: 4)]
+Queue 1: [(ID: 17, A: 23, S: 7)]
+Queue 2: [(ID: 15, A: 21, S: 6)]
+Queue 3: [(ID: 28, A: 29, S: 6)]
+Queue 4: [(ID: 50, A: 30, S: 5)]
+
+Time 31
+Waiting clients :   [(ID: 48, A: 32, S: 7), (ID: 11, A: 33, S: 5), (ID: 34, A: 34, S: 6), (ID: 42, A: 35, S: 1), (ID: 33, A: 36, S: 2), (ID: 2, A: 37, S: 7), (ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 12, A: 29, S: 4)]
+Queue 1: [(ID: 17, A: 23, S: 7)]
+Queue 2: closed
+Queue 3: [(ID: 28, A: 29, S: 6)]
+Queue 4: [(ID: 50, A: 30, S: 5)]
+
+Time 32
+Waiting clients :   [(ID: 11, A: 33, S: 5), (ID: 34, A: 34, S: 6), (ID: 42, A: 35, S: 1), (ID: 33, A: 36, S: 2), (ID: 2, A: 37, S: 7), (ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 12, A: 29, S: 4)]
+Queue 1: [(ID: 17, A: 23, S: 7)]
+Queue 2: [(ID: 48, A: 32, S: 7)]
+Queue 3: [(ID: 28, A: 29, S: 6)]
+Queue 4: [(ID: 50, A: 30, S: 5)]
+
+Time 33
+Waiting clients :   [(ID: 34, A: 34, S: 6), (ID: 42, A: 35, S: 1), (ID: 33, A: 36, S: 2), (ID: 2, A: 37, S: 7), (ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 12, A: 29, S: 4)]
+Queue 1: [(ID: 11, A: 33, S: 5)]
+Queue 2: [(ID: 48, A: 32, S: 7)]
+Queue 3: [(ID: 28, A: 29, S: 6)]
+Queue 4: [(ID: 50, A: 30, S: 5)]
+
+Time 34
+Waiting clients :   [(ID: 42, A: 35, S: 1), (ID: 33, A: 36, S: 2), (ID: 2, A: 37, S: 7), (ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 12, A: 29, S: 4), (ID: 34, A: 34, S: 6)]
+Queue 1: [(ID: 11, A: 33, S: 5)]
+Queue 2: [(ID: 48, A: 32, S: 7)]
+Queue 3: [(ID: 28, A: 29, S: 6)]
+Queue 4: [(ID: 50, A: 30, S: 5)]
+
+Time 35
+Waiting clients :   [(ID: 33, A: 36, S: 2), (ID: 2, A: 37, S: 7), (ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 34, A: 34, S: 6)]
+Queue 1: [(ID: 11, A: 33, S: 5)]
+Queue 2: [(ID: 48, A: 32, S: 7)]
+Queue 3: [(ID: 28, A: 29, S: 6)]
+Queue 4: [(ID: 42, A: 35, S: 1)]
+
+Time 36
+Waiting clients :   [(ID: 2, A: 37, S: 7), (ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 34, A: 34, S: 6)]
+Queue 1: [(ID: 11, A: 33, S: 5)]
+Queue 2: [(ID: 48, A: 32, S: 7)]
+Queue 3: [(ID: 33, A: 36, S: 2)]
+Queue 4: closed
+
+Time 37
+Waiting clients :   [(ID: 9, A: 38, S: 7), (ID: 21, A: 38, S: 4), (ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 34, A: 34, S: 6)]
+Queue 1: [(ID: 11, A: 33, S: 5)]
+Queue 2: [(ID: 48, A: 32, S: 7)]
+Queue 3: [(ID: 33, A: 36, S: 2)]
+Queue 4: [(ID: 2, A: 37, S: 7)]
+
+Time 38
+Waiting clients :   [(ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 0: [(ID: 34, A: 34, S: 6)]
+Queue 1: [(ID: 9, A: 38, S: 7)]
+Queue 2: [(ID: 48, A: 32, S: 7)]
+Queue 3: [(ID: 21, A: 38, S: 4)]
+Queue 4: [(ID: 2, A: 37, S: 7)]
+
+Time 39
+Waiting clients :   []
+Queue 0: [(ID: 34, A: 34, S: 6)]
+Queue 1: [(ID: 9, A: 38, S: 7)]
+Queue 2: [(ID: 10, A: 39, S: 1), (ID: 44, A: 39, S: 2)]
+Queue 3: [(ID: 21, A: 38, S: 4)]
+Queue 4: [(ID: 2, A: 37, S: 7)]
+
+Time 40
+Waiting clients :   []
+Queue 0: closed
+Queue 1: [(ID: 9, A: 38, S: 7)]
+Queue 2: [(ID: 44, A: 39, S: 2)]
+Queue 3: [(ID: 21, A: 38, S: 4)]
+Queue 4: [(ID: 2, A: 37, S: 7)]
+
+Time 41
+Waiting clients :   []
+Queue 0: closed
+Queue 1: [(ID: 9, A: 38, S: 7)]
+Queue 2: [(ID: 44, A: 39, S: 2)]
+Queue 3: [(ID: 21, A: 38, S: 4)]
+Queue 4: [(ID: 2, A: 37, S: 7)]
+
+Time 42
+Waiting clients :   []
+Queue 0: closed
+Queue 1: [(ID: 9, A: 38, S: 7)]
+Queue 2: closed
+Queue 3: closed
+Queue 4: [(ID: 2, A: 37, S: 7)]
+
+Time 43
+Waiting clients :   []
+Queue 0: closed
+Queue 1: [(ID: 9, A: 38, S: 7)]
+Queue 2: closed
+Queue 3: closed
+Queue 4: [(ID: 2, A: 37, S: 7)]
+
+Time 44
+Waiting clients :   []
+Queue 0: closed
+Queue 1: [(ID: 9, A: 38, S: 7)]
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+
+Time 45
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+
+Time 46
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+
+Time 47
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+
+Time 48
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+
+Time 49
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+
+Time 50
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+
+Time 51
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+
+Time 52
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+
+Time 53
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+
+Time 54
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+
+Time 55
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+
+Time 56
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+
+Time 57
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+
+Time 58
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+
+Time 59
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+
+Time 60
+Waiting clients :   []
+Queue 0: closed
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+
+Average service time is : 3
+Peak hour is : 19
+Average waiting time is : 10
