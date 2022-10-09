@@ -84,7 +84,7 @@ public class SimulationManager implements Runnable, ActionListener {
             frame.textArea.setText(frame.textArea.getText() + output);
             currentTime++;
             try {
-                Thread.sleep(100);
+                Thread.sleep(1000);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }

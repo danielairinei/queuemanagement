@@ -25,12 +25,12 @@ public class Server implements Runnable {
             newTask = tasks.peek();
             if (newTask != null) {
                 try {
-                    Thread.sleep(100L * newTask.getServiceTime());
+                    Thread.sleep(1000L * newTask.getServiceTime());
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
                 tasks.poll();
-                waitingPeriod.getAndAdd(-1* newTask.getServiceTime());
+                waitingPeriod.getAndAdd(-1 * newTask.getServiceTime());
                 totalServiceTime += newTask.getServiceTime();
                 ++processedTasks;
             }
